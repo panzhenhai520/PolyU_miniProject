@@ -3,6 +3,7 @@ Paper: "ADBench: Anomaly Detection Benchmark" https://arxiv.org/abs/2206.09426
 Code: https://github.com/Minqi824/ADBench?tab=readme-ov-file#readme
 
 1.论文数据集： 25_musk 、3_backdoor、9_ census
+
    25_musk: 166 个特征，3062 个样本
    3_backdoor : 196 个特征，95329 个样本
    9_ census : 500 个特征 299285 个样本
